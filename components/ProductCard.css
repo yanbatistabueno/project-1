@@ -1,0 +1,19 @@
+button {
+  display: flex;
+  width: 300px;
+}
+
+.product-info-container {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.product-name {
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+button img {
+  width: 130px;
+}
